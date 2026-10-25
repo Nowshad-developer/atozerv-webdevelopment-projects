@@ -1,0 +1,931 @@
+.logo
+{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.logo-txt
+{
+    color: orangered;
+}
+
+.logo-txt2
+{
+    color: orange;
+}
+
+.deliver
+{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+.cur-txt
+{
+    font-weight: 400;
+}
+
+.pin
+{
+    color: orange;
+}
+
+.search-box
+{
+    border: none;
+    background-color: white;
+}
+
+.zoom
+{
+    color: orange;
+}
+
+.search-out
+{
+    width: 250px;
+    border: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nav-over
+{
+    background-color: rgb(250, 249, 249);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5%;
+    padding: 15px;
+}
+
+.login-but
+{
+    border: none;
+    background-color: white;
+    padding: 12px;
+    border-radius: 5px;
+    width: 140px;
+    color: rgb(255, 165, 0);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    box-shadow: rgba(255, 165, 0, 0.16) 0px 10px 36px 0px, rgba(255, 165, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.login-out
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.user
+{
+    color: orange;
+}
+
+.main-head
+{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    font-size: 65px;
+    color: white;
+}
+
+.sub-txt
+{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    width: 90%;
+    color: rgb(103, 102, 102);
+}
+
+.deliv
+{
+    font-family: "Open Sans", sans-serif;
+    background-color: rgba(255, 68, 0, 0.096);
+    color: orangered;
+    padding: 15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.pick
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form-nav
+{
+    display: flex;
+    column-gap: 10px;
+    border-bottom: solid rgba(180, 179, 179, 0.455) 1px;
+}
+
+.findfood-but
+{
+    color: white;
+    background-color: rgb(241, 114, 40);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    width: 150px;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.email-in
+{
+    border: none;
+    background-color: rgb(244, 243, 243);
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 400px;
+}
+
+.home-over
+{
+    background-color: rgb(255, 179, 14);
+}
+
+.email-out
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.starv-out
+{
+    width: 40%;
+}
+
+.add-out
+{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 7%;
+}
+
+.home-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    padding-top: 7%;
+}
+
+.img-adj
+{
+    border-radius: 20px;
+}
+
+.food-nam
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;  
+}
+
+.remin
+{
+    background-color: rgba(255, 68, 0, 0.096);
+    color: rgb(241, 114, 40);
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+    width: 65%;
+    font-size: 18px;  
+}
+
+.off-over
+{
+    padding-top: 6%;
+    padding-bottom: 4%;
+}
+
+.sub-head
+{
+    color: rgb(241, 114, 40);
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    text-align: center;
+}
+
+.how-img
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.how-img-out
+{
+    width: 80%;
+}
+
+.how-txt
+{
+    font-family: "Open Sans", sans-serif; 
+    color: rgb(65, 65, 65);
+}
+
+.how-out
+{
+    width: 15%;
+    text-align: center;
+}
+
+.how-flex
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.how-over
+{
+    background: linear-gradient(to bottom, rgba(255, 166, 0, 0.119) 0%, rgba(255, 255, 255, 0));
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.pop-head
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    text-align: center;
+}
+
+.it-nam
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.it-loc
+{
+    color: rgb(255, 179, 14);
+    font-weight: 500;
+}
+
+.it-rate
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.itimg-out
+{
+    width: 100%;
+}
+
+.order-but
+{
+    background-color: rgb(241, 114, 40);
+    color: white;
+    border: solid rgb(241, 114, 40) 1px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.popit-out
+{
+    width: 15%;
+}
+
+.popit-out2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.arrow
+{
+    background-color: rgb(255, 179, 14);
+    color: white;
+    font-size: 30px;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+.pop-over
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.off
+{
+    background-color: rgb(241, 114, 40);
+    text-align: center;
+    color: white;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 16px;
+    width: 50%;
+    height: 20%;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.speed
+{
+    background-color: rgb(255, 179, 14);
+    text-align: center;
+    color: white;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 16px;
+    width: 40%;
+    height: 20%;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.off-flex
+{
+    width: 70%;
+    display: flex;
+    column-gap: 8px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+.feat-img
+{
+    position: relative;
+}
+
+.feat-logo
+{
+    width: 25%;
+}
+
+.food-head
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.star-review
+{
+    color: rgb(255, 179, 14);
+}
+
+.opening
+{
+    background-color: rgba(241, 114, 40, 0.14);
+    text-align: center;
+    color: rgb(241, 114, 40);
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 18px;
+    width: 60%;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.open-now
+{
+    background-color: rgba(40, 241, 50, 0.14);
+    text-align: center;
+    color: rgb(1, 185, 10);
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 18px;
+    width: 40%;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.featlogo-out
+{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.view-all
+{
+    background-color: rgb(255, 179, 14);
+    text-align: center;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    color: white;
+    padding: 10px;
+    width: 180px;
+    border-radius: 8px;
+}
+
+.viewall-flex
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.feat-over
+{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.searchfood-head
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.search-view
+{
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+}
+
+.search-arrow
+{
+    background-color: rgb(255, 179, 14);
+    color: white;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+.searcharrow-flex
+{
+    display: flex;
+    column-gap: 15px;
+}
+
+.view-flex
+{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.searchead-flex
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 50%;
+}
+
+.searchround-img
+{
+    border-radius: 100px;
+}
+
+.searchimg-out
+{
+    width: 12%;
+}
+
+.searchfood-txt
+{
+    text-align: center;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5%;
+}
+
+.searchfood-flex
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 3%;
+    margin-top: 5%;
+}
+
+.searchfood-over
+{
+    padding-top: 8%;
+    padding-bottom: 12%;
+}
+
+.appin-over
+{
+    background-image: url(../images/cta-one-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 8%;
+}
+
+.dis-logo
+{
+    width: 30%;
+}
+
+.daily-dis
+{
+    color: orangered;
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 800;
+    font-size: 30px;
+    width: 20%;
+}
+
+.dis-flex
+{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.disout-flex
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+    background-color: white;
+    width: 80%;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: rgba(255, 179, 14, 0.16) 0px 10px 36px 0px, rgba(255, 179, 14, 0.06) 0px 0px 0px 1px;
+}
+
+.disout2-flex
+{
+    display: flex;
+    justify-content: center;
+}
+
+.dis-line
+{
+    border: solid grey 1px;
+    height: 120px;
+}
+
+.insta-head
+{
+    color: rgb(255, 179, 14);
+    font-family: "Open Sans", sans-serif; 
+    font-weight: 800;
+    font-size: 38px;
+}
+
+.insta-txt
+{
+    font-family: "Open Sans", sans-serif; 
+    font-size: 16px;
+}
+
+.install-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+    margin-top: 8%;
+}
+
+.install-out2
+{
+    width: 30%;
+    margin-top: 3%;
+}
+
+.appstore
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.googlestore
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.appicn
+{
+    color: rgb(241, 114, 40);
+    font-size: 45px;
+}
+
+.down-txt
+{
+    font-size: 14px;
+}
+
+.appout-flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 22px;
+    column-gap: 5px;
+    background-color: white;
+    width: 42%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.appout-flex2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 22px;
+    column-gap: 5px;
+    background-color: white;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.appoutflex-2
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.order-heads
+{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+.crispy
+{
+    color: rgb(255, 179, 14);
+}
+
+.order-txt
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    margin-top: 8%;
+}
+
+.proceed-but
+{
+    background-color: rgb(255, 179, 14);
+    border: none;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%;
+}
+
+.proceedbut-out
+{
+    margin-top: 25%;
+}
+
+.orders-out
+{
+    width: 40%;
+    background-color: white;
+    box-shadow: rgba(20, 14, 2, 0.16) 0px 10px 36px 0px, rgba(20, 14, 2, 0.06) 0px 0px 0px 1px;
+    padding: 55px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.orders-out2
+{
+    width: 40%;
+    background-color: white;
+    box-shadow: rgba(20, 14, 2, 0.16) 0px 10px 36px 0px, rgba(20, 14, 2, 0.06) 0px 0px 0px 1px;
+    padding: 55px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.orderpart-over
+{
+    margin-top: 4%;
+}
+
+.ordersec-over
+{
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.orderimg-out
+{
+    width: 55%;
+}
+
+.orders-flexout
+{
+    display: flex;
+    justify-content: center;
+}
+
+.orderimg
+{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgba(20, 14, 2, 0.16) 0px 10px 36px 0px, rgba(20, 14, 2, 0.06) 0px 0px 0px 1px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.orderimg2
+{
+    width: 100%;
+    height: 100%;
+    box-shadow: rgba(20, 14, 2, 0.16) 0px 10px 36px 0px, rgba(20, 14, 2, 0.06) 0px 0px 0px 1px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.ready-over
+{
+    background-image: url(../images/cta-two-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.ready-txt
+{
+    text-align: center;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.ready-but
+{
+    border: none;
+    background-color: rgb(241, 114, 40);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    width: 250px;
+}
+
+.readybut-out
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.foot-head
+{
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+.foot-over
+{
+    background-color: rgb(33, 33, 33);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.foot-lst
+{
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+.footlst-flex
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footsub-lst
+{
+    list-style: none;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+.foot-line
+{
+    border: solid grey 1px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.foot-line2
+{
+    opacity: 1;
+    border: solid grey 1px;
+    margin-top: 5%;
+}
+
+.footsublst-flex
+{
+    display: flex;
+    column-gap: 15%;
+}
+
+.follow-head
+{
+    color: rgb(178, 177, 177);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;   
+}
+
+.soc-icn
+{
+    color: rgb(178, 177, 177);
+    font-family: "Open Sans", sans-serif;
+    font-size: 25px;
+}
+
+.socicn-flex
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.mailbox-out
+{
+    width: 40%;
+}
+
+.mail-in
+{
+    color: white;
+    background-color: rgb(192, 190, 190);
+    border: none;
+    width: 25%;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.subscribe
+{
+    background-color: rgb(255, 179, 14);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    width: 150px;
+}
+
+.form-flex
+{
+    display: flex;
+    column-gap: 30px;
+}
+
+.copy
+{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    list-style: none;
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+}
+
+.nam
+{
+    color: rgb(255, 179, 14);
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
