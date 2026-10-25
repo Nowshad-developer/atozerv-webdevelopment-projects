@@ -1,0 +1,1029 @@
+.f
+{
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    background-color: rgb(84, 84, 255);
+    color: white;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+.c
+{
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    background-color: rgba(127, 84, 255, 0.777);
+    color: white;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 100%;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    left: 2.5%;
+}
+
+.reg-btn
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    border: solid white 2px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.reg-btn:hover
+{
+    background-color: white;
+    color: black;
+}
+
+.top-menu
+{
+    list-style: none;
+    display: flex;
+    column-gap: 20%;
+    font-family: "Google Sans Flex", sans-serif;
+    font-optical-sizing: auto;
+    letter-spacing: 2px;
+    font-size: 14px;
+    color: grey;
+}
+
+.top-menu li:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.top-over
+{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30%;
+    padding-left: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.top-out
+{
+    display: flex;
+    column-gap: 60%;
+}
+
+.down
+{
+    font-size: 10px;
+}
+
+.overbg
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/360_F_1136629816_4aBWrNcx9NQa7zEYUAVjKL2CNnqO7cT2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro
+{
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.main-head
+{
+    color: white;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 5px;
+    font-size: 45px;
+}
+
+.venue
+{
+    color: white;
+    font-size: 23px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.822);
+}
+
+.pass-btn
+{
+    background-color: rgb(255, 0, 127);
+    color: white;
+    border: none;
+    width: 220px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    font-size: 15px;
+}
+
+.pass-btn:hover
+{
+    box-shadow: rgba(255, 0, 127, 0.25) 0px 54px 55px, rgba(255, 0, 127, 0.12) 0px -12px 30px, rgba(255, 0, 127, 0.12) 0px 4px 6px, rgba(255, 0, 127, 0.17) 0px 12px 13px, rgba(255, 0, 127, 0.09) 0px -3px 5px;
+    
+}
+
+.intro-out
+{
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 8%;
+}
+
+.arrow
+{
+    font-size: 25px;
+    font-weight: 700;
+    color: grey;
+}
+
+.down-arrow
+{
+    margin-top: 5%;
+}
+
+.down-main
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 5%;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    margin-bottom: 8%;
+}
+
+.ready
+{
+    font-size: 20px;
+    color: rgb(242, 122, 56);
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+}
+
+.get-pass
+{
+    color: rgb(136, 136, 136);
+}
+
+.tickets
+{
+    background-color: rgb(255, 0, 127);
+    color: white;
+    border: none;
+    width: 180px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    font-size: 15px;
+}
+
+.tickets:hover
+{
+    background-color: rgb(209, 4, 107);
+}
+
+.cross
+{
+    margin-left: 100%;
+    font-size: 13px;
+    color: grey;
+}
+
+.about-head
+{
+    color: rgb(90, 147, 252);
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+}
+
+.read
+{
+    color: rgb(90, 147, 252);
+    font-weight: 700;
+}
+
+.blue-arrow
+{
+    font-size: 12px;
+}
+
+.about-cnt
+{
+    text-align: justify;
+    color: rgb(112, 128, 144);
+}
+
+.abt-img
+{
+    border-radius: 8px;
+}
+
+.about-out
+{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+
+.about-over
+{
+    margin-bottom: 8%;
+}
+
+.subhead
+{
+    font-size: 43px;
+    font-weight: 700;
+    margin-top: 5%;
+    color: white;   
+    padding-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 8%;
+    font-family: "Oswald", sans-serif;
+}
+
+.org-over
+{
+    background-image: linear-gradient(rgba(19, 1, 62, 0.822)), url(../images/female-hands-typing-keyboard-laptop-surfing-internet-texting-friends-via-social-networks-sitting-wooden-table-indoor-87752750.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.name
+{
+    color: white;
+    font-weight: 700;
+}
+
+.name:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.name2
+{
+    color: rgb(90, 147, 252);
+    font-weight: 800;
+}
+
+.role
+{
+    color: rgba(255, 255, 255, 0.855);
+    font-weight: 800;
+    font-size: 10px;
+}
+
+.role2
+{
+    color: rgb(155, 154, 154);
+    font-weight: 800;
+    font-size: 12px;
+}
+
+.social-icn
+{
+    color: rgba(255, 255, 255, 0.7);
+    margin-right: 10px;
+}
+
+.speck-icn
+{
+    color: rgb(197, 195, 195);
+    margin-right: 10px;
+}
+
+.speaker
+{
+    color: rgb(90, 147, 252);
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.speak-role
+{
+    color: rgb(150, 160, 181);
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.speak-flex
+{
+    display: flex;
+    column-gap: 20px;
+    margin-left: 7%;
+}
+
+.speak-txt
+{
+    font-style: italic;
+}
+
+.org-cnt
+{
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.speak-cnt
+{
+    font-style: italic;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.org-out
+{
+    display: flex;
+    column-gap: 20px;
+    width: 100%;
+}
+
+.org-out2
+{
+    display: flex;
+    column-gap: 20px;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.speak-out
+{
+    display: flex;
+    column-gap: 20px;
+    width: 100%;
+    margin-left: 7%;
+}
+
+.speak-sub-out
+{
+    display: flex;
+    margin-top: 3%;
+}
+
+.sub-org
+{
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.line
+{
+    border: solid white 1px;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.line2
+{
+    border: solid white 1px;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
+.conatiner2
+{
+    padding-bottom: 5%;
+}
+
+.speak-head
+{
+    color: rgb(90, 147, 252);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.speck-over
+{
+    padding-top: 6%;
+}
+
+.apply
+{
+    background-color: rgb(90, 147, 252);
+    color: white;
+    border: 0;
+    font-weight: 700;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-top: 10%;
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+}
+
+.apply:hover
+{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.speck-cont
+{
+    margin-top: 4%;
+    margin-bottom: 7%;
+    color: rgb(112, 128, 144);
+}
+
+.submit-over
+{
+    background-image: linear-gradient(rgb(0, 0, 0), rgba(21, 1, 27, 0.849)), url(../images/audience-attending-business-conference-with-speaker-on-stage-delivering-presentation-in-blurred-background-photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.submit-over p
+{
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 24px;
+    margin-top: 2%;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.submit-head
+{
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+    font-size: 48px;
+    letter-spacing: 2px;
+    font-style: normal;
+}
+
+.submit
+{
+    background-color: rgb(255, 0, 127);
+    color: white;
+    border: 0;
+    border-radius: 50px;
+    font-weight: 700;
+    width: 180px;
+    padding: 10px;
+    margin-top: 3%;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.submit:hover
+{
+    background-color: rgb(214, 4, 109);
+}
+
+.sched-over
+{
+    background-image: linear-gradient(rgb(245, 246, 248, 0.9)), url(../images/sunrise-over-rolling-green-hills-misty-mountains-photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.date
+{
+    color: rgb(90, 147, 252);
+    font-size: 25px;
+    font-family: "Oswald", sans-serif;
+}
+
+.soho
+{
+    font-weight: 700;
+    color: rgb(84, 101, 122);
+}
+
+.subscribe-over
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+    background-image: linear-gradient(rgba(21, 1, 27, 0.8)), url(../images/360_F_1136629816_4aBWrNcx9NQa7zEYUAVjKL2CNnqO7cT2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.wel
+{
+    font-weight: 700;
+    color: rgb(84, 101, 122);
+}
+
+.wel-out
+{
+    display: flex;
+    column-gap: 5px;
+    color: rgb(112, 128, 144);
+}
+
+.round-img
+{
+    border-radius: 100px;
+}
+
+.scehd-name
+{
+    font-weight: 800;
+    color: rgb(171, 170, 170);
+}
+
+.schedimg-out
+{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+}
+
+.schedimg-out3
+{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    width: 50%;
+}
+
+.schedimg-out2
+{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    width: 22%;
+}
+
+.twent-width
+{
+    width: 10%;
+}
+
+.sche-out2
+{
+    display: flex;
+    column-gap: 30px;
+}
+
+
+
+.dress
+{
+    font-weight: 700;
+    color: rgb(171, 170, 170);
+}
+
+.subtxt
+{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+}
+
+.sbu-line
+{
+    opacity: 1;
+    border: solid white 1px;
+    height: 100px;
+}
+
+.updates
+{
+    color: white;
+    text-align: center;
+}
+
+.mail-in input
+{
+    padding: 7px;
+    border: 0;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.subscribe
+{
+    padding: 7px;
+    width: 120px;
+    margin-left: 5px;
+    background-color: rgb(90, 147, 252);
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    border: 0;
+    border-radius: 5px; 
+    font-size: 16px;
+}
+
+.subscribe:hover
+{
+    background-color: rgb(68, 111, 192);
+}
+
+.past
+{
+    color: rgb(90, 147, 252);
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 7%;
+    margin-bottom: 4%;
+    font-family: "Oswald", sans-serif;
+}
+
+.past-out
+{
+    display: flex;
+    column-gap: 25px;
+}
+
+.event-over
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: rgb(238, 242, 248);
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.partimg-out
+{
+    border: solid rgb(200, 215, 230) 2px;
+    width: 100%;
+    
+    border-radius: 8px;
+    margin-bottom: 15%;
+}
+
+.spons-over
+{
+    margin-bottom: 8%;
+}
+
+.reg-head
+{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 7%;
+    margin-bottom: 4%;
+    font-family: "Oswald", sans-serif;
+}
+
+.reg-over
+{
+    background-image: linear-gradient(rgba(19, 1, 62, 0.947)), url(../images/istockphoto-1783743772-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.rate
+{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 8%;
+}
+
+.rate-num
+{
+    font-size: 70px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+.reg-sub-out
+{
+    border: solid rgba(255, 255, 255, 0.273) 1px;
+    border-radius: 8px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.reg-sub-out:hover
+{
+    cursor: pointer;
+    border: solid white 1px;
+}
+
+.tier
+{
+    color:white;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+}
+
+.tier-out
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rate-out
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+    padding-bottom: 15%;
+}
+
+.single
+{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 13px;
+}
+
+.remain
+{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.person
+{
+    font-weight: 600;
+}
+
+.car-list
+{
+    color: white;
+    font-size: 12px;
+    list-style: none;
+    margin-left: 20%;
+}
+
+.car-list li
+{
+    margin-bottom: 6%;
+}
+
+.car-list li:hover
+{
+    color: rgb(131, 130, 130);
+}
+
+.right-small
+{
+    font-size: 8px;
+}
+
+.join
+{
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    width: 180px;   
+    font-size: 15px;
+    padding: 10px;
+    color: white;
+    border: solid rgb(90, 147, 252) 2px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.034);
+}
+
+.join:hover
+{
+    background-color: rgb(90, 147, 252);
+}
+
+.join-out
+{
+    text-align: center;
+    margin-top: 20%;
+}
+
+.loc-over
+{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.loc-in
+{
+    width: 100%;
+    padding-left: 4%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10%;
+    border: solid rgba(128, 128, 128, 0.644) 1px;
+    border-radius: 4px;
+    color: rgba(128, 128, 128, 0.644);
+}
+
+.loc-icn
+{
+    color: rgb(112, 128, 144);
+}
+
+.loc-com
+{
+    width: 100%;
+    padding-left: 4%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 180px;
+    border: solid rgba(128, 128, 128, 0.479) 1px;
+    border-radius: 4px;
+    color: rgba(128, 128, 128, 0.644);
+    margin-bottom: 10%;
+}
+
+.loc-sub
+{
+    background-color: rgb(90, 147, 252);
+    border: none;
+    border-radius: 5px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 600;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.loc-sub:hover
+{
+    background-color: rgb(76, 124, 212);
+}
+
+.loc-flex
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.locflex-head
+{
+    font-weight: 700;
+    color: rgb(112, 128, 144);
+}
+
+.locflex-cnt
+{
+    color: rgb(106, 106, 106);
+}
+
+.locflex-out
+{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.loc-line
+{
+    opacity: 1;
+    border: solid rgba(106, 106, 106, 0.455) 1px;
+    height: 100px;
+}
+
+.locflex-link
+{
+    color: rgb(90, 147, 252);
+}
+
+.locflex-link:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.locflex-mail
+{
+    color: rgb(90, 147, 252);
+}
+
+.locflex-mail:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.locwarn-icn
+{
+    font-size: 40px;
+    color: grey;
+}
+
+.warn-out
+{
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    background-color: rgb(231, 231, 233);
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 2%;
+    font-family: "Roboto", sans-serif;
+}
+
+.warn-txt
+{
+    font-size: 30px;
+}
+
+.warn-txt2
+{
+    font-size: 14px;
+}
+
+.faq-over
+{
+    background-color: rgb(44, 35, 84);
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.faq-head
+{
+    font-size: 45px;
+    font-weight: 700;
+    color: white;
+    font-family: "Oswald", sans-serif;
+}
+
+.faq-txt
+{
+    color: rgb(243, 241, 241);
+    margin-bottom: 5%;
+    font-size: 16px;
+}
+
+
+.fq-lst
+{
+    list-style: none;
+    color: rgb(192, 191, 203);
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+}
+
+.faq-flex
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.faq-link
+{
+    color: rgb(59, 98, 209);
+}
+
+.faq-link:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.faq-div
+{
+    width: 56%;
+    margin-left: 10%;
+}
+
+.cpy-lst
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    color: rgb(192, 191, 203);
+    background-color: rgb(31, 20, 68);
+    font-weight: 600;
+}
+
+.name3
+{
+    color: white;
+    font-weight: 800;
+}
