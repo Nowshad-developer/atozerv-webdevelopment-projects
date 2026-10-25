@@ -1,0 +1,1242 @@
+.top1
+{
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    margin-top: 10px;
+}
+
+.top1 li:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.top-2
+{
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+}
+
+.top-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 55%;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(235, 233, 233, 0.816);
+}
+
+.topicn
+{
+    color: rgb(212, 168, 106);
+}
+
+.en
+{
+    color: rgb(212, 168, 106);
+}
+
+.en:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.subtop
+{
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    color: white;
+    margin-top: 12px;
+    font-weight: 500;
+}
+
+.subtop li:hover
+{
+    color: rgb(210, 164, 84);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.subtop-over
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 2%;
+    background-color: rgba(0, 0, 0, 0.455);
+    padding: 20px;
+    border: solid black 2px;
+}
+
+.logo
+{
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    color: white;
+}
+
+.book
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(235, 233, 233, 0.816);
+    border: solid rgb(212, 168, 106) 3px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    width: 170px;
+    border-radius: 30px;
+}
+
+.book:hover
+{
+    color: black;
+    background-color: rgb(212, 168, 106);
+}
+
+.book-out
+{
+    margin-left: 2%;
+}
+
+.overbg
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/intro-1751622864.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.main-head
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 63px;
+}
+
+.intro-out
+{
+    padding-left: 8.5%;
+    padding-top: 8%;
+    padding-bottom: 15%;
+}
+
+.intro-sub
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgb(217, 217, 217);
+    font-size: 28px;
+}
+
+.menu
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: white;
+    border: solid rgb(210, 164, 84) 2px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+.menu:hover
+{
+    color: black;
+    background-color: rgb(210, 164, 84);
+    font-weight: 500;
+}
+
+.book2
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: white;
+    font-weight: 500;
+    border: solid rgb(244, 190, 96) 2px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.book2:hover
+{
+    color: black;
+    background-color: rgb(210, 164, 84);
+    font-weight: 500;
+}
+
+.reasturantly
+{
+    color: rgb(210, 164, 84);
+}
+
+.buttons
+{
+    display: flex;
+    column-gap: 10px;
+    margin-top: 2%;
+}
+
+.play
+{
+    font-size: 34px;
+}
+
+.play-out1
+{
+    background-color: rgb(210, 164, 84);
+    width: 75px;
+    height: 75px;
+    padding: 10px;
+    border-radius: 100%;
+    text-align: center;
+    color: white;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.play-out2
+{
+    background-color: rgba(244, 190, 96, 0.179);
+    width: 105px;
+    height: 105px;
+    border-radius: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 38%;
+    left: 75%;
+}
+
+.subhead
+{
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    color: white;
+}
+
+.about-over
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.801)), url(../images/istockphoto-683480284-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+
+.cnt
+{
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    color: rgb(109, 108, 108);
+    font-style: italic;
+    font-size: 16px;
+}
+
+.cnt2
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgb(109, 108, 108);
+    font-style: italic;
+    font-size: 20px;
+}
+
+.abt-list
+{
+    color: white;
+    list-style: none;
+}
+
+.lst-flex
+{
+    display: flex;
+    column-gap: 8px;
+    color: rgba(240, 239, 239, 0.878);
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.lst-out
+{
+    margin-top: 5%;
+}
+
+.check2-icn
+{
+    color: rgb(212, 168, 106);
+    font-size: 23px;
+}
+
+.abt-cnt
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(240, 239, 239, 0.878);
+    font-size: 18px;
+}
+
+.abtimg
+{
+    border: solid rgba(52, 51, 51, 0.515) 7px;
+}
+
+.whyus
+{
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    color: rgb(147, 146, 146);
+    font-size: 20px;
+}
+
+.why-over
+{
+    background-color: rgb(11, 11, 11);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.why-wide
+{
+    width: 6%;
+}
+
+.why-wide2
+{
+    width: 5%;
+}
+
+.line
+{
+    opacity: 1;
+    border: solid rgb(212, 168, 106) 1px;
+    width: 10%;
+}
+
+.line-out
+{
+    display: flex;
+    margin-left: 7%;
+}
+
+.line-out2
+{
+    display: flex;
+    column-gap: 2%;
+    margin-left: 7%;
+    padding-top: 4%;
+}
+
+.line-out3
+{
+    display: flex;
+    column-gap: 1%;
+    margin-left: 7%;
+    padding-top: 4%;
+}
+
+.line-wide
+{
+    width: 100%;
+}
+
+.why-head
+{
+    color: rgb(212, 168, 106);
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 48px;
+    margin-left: 7%;
+}
+
+.num
+{
+    color: rgb(212, 168, 106);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+.cont-head
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    padding-top: 5%;
+}
+
+.cont-cnt
+{
+    color: rgb(152, 151, 151);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 5%;
+}
+
+.cont-out
+{
+    background-color: rgb(24, 24, 24);
+    padding-top: 15%;
+    padding-left: 8%;
+    padding-bottom: 10%;
+    padding-right: 20%;
+    margin-top: 15%;
+}
+
+.menu-over
+{
+    background-color: rgb(24, 24, 24);
+    padding-top: 5%;
+    padding-bottom: 4%;
+}
+
+.menu-nav
+{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    column-gap: 2%;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-weight: 700; 
+    margin-top: 3%;   
+}
+
+.menu-nav li:hover
+{
+    color: rgb(212, 168, 106);
+    cursor: pointer;
+}
+
+.dishname
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 40%;
+    height: 10%;
+}
+
+.dishname2
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 31%;
+    height: 10%;
+}
+
+.dishname3
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 25%;
+    height: 10%;
+}
+
+.dishname4
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 50%;
+    height: 10%;
+}
+
+.dishname5
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 38%;
+    height: 10%;
+}
+
+.dishname6
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 45%;
+    height: 10%;
+}
+
+.dishname7
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 30%;
+    height: 10%;
+}
+
+.dishname8
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 37%;
+    height: 10%;
+}
+
+.dishname9
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: black;
+    padding-right: 10px;
+    width: 31%;
+    height: 10%;
+}
+
+.dot-line
+{
+    opacity: 1;
+    border: dashed rgba(123, 122, 122, 0.796) 1px;
+}
+
+.dotline-out
+{
+    width: 100%;
+}
+
+.rate
+{
+    color: rgb(212, 168, 106);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 10%;
+}
+
+.rate-out
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rateout-over
+{
+    width: 100%;
+}
+
+.dish-out
+{
+    display: flex;
+    column-gap: 20px;
+}
+
+.dish-over
+{
+    margin-top: 5%;
+}
+
+.dishimg-out
+{
+    width: 17%;
+}
+
+.dishimg
+{
+    border-radius: 100px;
+    border: solid rgba(139, 138, 138, 0.162) 9px;
+}
+
+.special-over
+{
+    background-color: rgb(7, 7, 7);
+    padding-bottom: 5%;
+}
+
+.spec
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 17px;
+    padding: 15px;
+    background-color: rgb(7, 7, 7);
+    border-right: solid rgb(210, 164, 84) 2px;
+    margin: 0;
+}
+
+.spec:hover
+{
+    background-color: rgb(210, 164, 84);
+    color: black;
+    font-weight: 600;
+    border-right: solid white 2px;
+    cursor: pointer;
+}
+
+.spec-out
+{
+    width: 20%;
+}
+
+.spec-out2
+{
+    width: 42%;
+}
+
+.spec-head
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+}
+
+.spec-cnt
+{
+    color: rgb(144, 143, 143);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.spec-cnti
+{
+    color: rgb(144, 143, 143);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.specimg
+{
+    border-radius: 100%;
+}
+
+.spec-out-over
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 2%;
+    margin-top: 5%;
+}
+
+.head-mov
+{
+    margin-left: 1%;
+}
+
+.party-over
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.823)), url(../images/images\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.party-head
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+.partyrate
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 28px;
+    color: white;
+    font-weight: 700;
+}
+
+.party-line
+{
+    opacity: 1;
+    border: solid rgb(212, 168, 106) 1px;
+    width: 11%;
+}
+
+.part-cnt
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: white;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.part-cnt1
+{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.partcnt-2
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.lst-flex2
+{
+    display: flex;
+    column-gap: 8px;
+    color: white;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.small-round
+{
+    background-color: rgb(74, 74, 74);
+    color: rgb(210, 164, 84);
+    width: 13px;
+    height: 13px;
+    border-radius: 100px;
+}
+
+.small-round2
+{
+    background-color: rgb(212, 168, 106);
+    color: rgb(210, 164, 84);
+    width: 13px;
+    height: 13px;
+    border-radius: 100px;
+}
+
+.small-round3
+{
+    background-color: rgb(74, 74, 74);
+    color: rgb(210, 164, 84);
+    width: 13px;
+    height: 13px;
+    border-radius: 100px;
+}
+
+.round-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 2%;
+}
+
+.book-over
+{
+    background-color: black;
+}
+
+.bookin input
+{
+    width: 100%;
+    background-color: black;
+    border: solid rgba(123, 122, 122, 0.285) 2px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(140, 138, 138, 0.796);
+}
+
+.bookin textarea
+{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    border: solid rgba(123, 122, 122, 0.285) 2px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    color: rgba(140, 138, 138, 0.796);
+}
+
+.bookf-out
+{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.book-form
+{
+    padding-bottom: 2%;
+}
+
+.book-btn
+{
+    border: solid rgb(210, 164, 84) 2px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(196, 193, 193);
+    font-size: 18px;
+    border-radius: 50px;
+    padding: 15px;
+    width: 20%;
+    font-weight: 500;
+}
+
+.book-btn:hover
+{
+    background-color: rgb(210, 164, 84);
+    color: black;
+    font-weight: 500;
+}
+
+.bookbt-out
+{
+    text-align: center;
+}
+
+.test-over
+{
+    background-color: black;
+    padding-bottom: 6%;
+}
+
+.test-out
+{
+    background-color: rgb(15, 15, 15);
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    padding: 20px;
+    width: 90%;
+    border-radius: 8px;
+    position: relative;
+}
+
+.test-img
+{
+    border-radius: 100px;
+    border: solid black 6px;
+}
+
+
+.test-img-out
+{
+    position: absolute;
+    bottom: -55%;
+    left: 8%;
+}
+
+.test-out p
+{
+    margin-bottom: 12%;
+    font-style: italic;
+}
+
+.test-view
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.testcnt-over
+{
+    margin-top: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.free-lan
+{
+    color: rgba(255, 255, 255, 0.471);
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+.quote1
+{
+    color: rgb(140, 107, 58);
+    font-size: 20px;
+    margin-right: 2%;
+}
+
+.quote2
+{
+    color: rgb(140, 107, 58);
+    font-size: 20px;
+    margin-left: 2%;
+}
+
+.testcircle
+{
+    border: solid rgb(212, 168, 106) 2px;
+    width: 13px;
+    height: 13px;
+    border-radius: 100px;
+}
+
+.testcircle1
+{
+    background-color: rgb(212, 168, 106);
+    width: 13px;
+    height: 13px;
+    border-radius: 100px;
+}
+
+.testcir-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 8px;
+    margin-top: 9%;
+}
+
+.gallery-over
+{
+    background-color: black;
+    padding-bottom: 5%;
+}
+
+.galimg-out
+{
+    width: 25%;
+}
+
+.galimg-subout
+{
+    display: flex;
+    column-gap: 4px;
+    padding-bottom: 4px;
+}
+
+.galimgover-out
+{
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 5%;
+}
+
+.team-over
+{
+    background-color: black;
+    padding-bottom: 5%;
+}
+
+.team-out
+{
+    margin-top: 5%;
+}
+
+.map-over
+{
+    background-color: rgb(26, 24, 20);
+    padding-bottom: 3%;
+}
+
+.contact-icn
+{
+    background-color: rgb(212, 168, 106);
+    text-align: center;
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.contact-icn:hover
+{
+    background-color: rgb(177, 141, 89);
+    cursor: pointer;
+}
+
+.loc-head
+{
+    color: white;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    
+}
+
+.add
+{
+    color: rgb(170, 170, 170);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.time
+{
+    color: rgb(170, 170, 170);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.cont-subout
+{
+    display: flex;
+    column-gap: 15px;
+    margin-bottom: 7%;
+}
+
+.map-form
+{
+    margin-top: 4%;
+}
+
+.mapin input
+{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    border: solid rgba(244, 190, 96, 0.455) 1px;
+    color: rgb(212, 168, 106);
+    padding: 10px;
+    margin-bottom: 5%;
+}
+
+.mapin textarea
+{
+    width: 100%;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0);
+    border: solid rgba(244, 190, 96, 0.455) 1px;
+    color: rgb(212, 168, 106);
+    padding: 10px;
+}
+
+.msgbtn
+{
+    border: solid rgb(212, 168, 106) 2px;
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(196, 193, 193);
+    font-size: 18px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 28%;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.msgbtn:hover
+{
+    background-color: rgb(212, 168, 106);
+    color: black;
+    font-weight: 500;
+}
+
+.msgbtn-out
+{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.bot-logo
+{
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    color: white;
+}
+
+.foot-over
+{
+    background-color: black;
+    padding-top: 5%;
+}
+
+.foot-add
+{
+    color: rgb(196, 193, 193);
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+}
+
+.phon
+{
+    font-weight: 800;
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+}
+
+.foot-lst
+{
+    list-style: none;
+    color: rgb(196, 193, 193);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.foot-lst li
+{
+    margin-bottom: 6%;
+    color: rgb(146, 146, 146);
+}
+
+.foot-lst li:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.subscribe-txt
+{
+    color: rgb(199, 198, 198);
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.news-input
+{
+    display: flex;
+}
+
+.sub-btn
+{
+    background-color: rgb(212, 168, 106);
+    border: solid rgb(212, 168, 106);
+    width: 120px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 18px;
+    padding: 8px;
+}
+
+.sub-btn:hover
+{
+    background-color: rgb(151, 119, 76);
+    border: solid rgb(151, 119, 76);
+}
+
+.news-input input
+{
+    width: 60%;
+    background-color: rgba(255, 255, 255, 0);
+    border: solid rgba(244, 190, 96, 0.455) 1px;
+    color: rgb(212, 168, 106);
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.foot-icn
+{
+    color: grey;
+    border: solid rgb(92, 91, 91) 1px;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    width: 50px;
+    border-radius: 100px;
+}
+
+.foot-icn:hover
+{
+    color: black;
+    background-color: rgb(92, 91, 91);
+    cursor: pointer ;
+}
+
+.footicn-out
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.cpy
+{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    padding: 20px;
+}
+
+.cpy-name
+{
+    color: rgb(212, 168, 106);
+}
+
+.cpy-line
+{
+    opacity: 40%;
+    border-color: rgb(92, 91, 91);
+}
+
+.cpy-name:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
