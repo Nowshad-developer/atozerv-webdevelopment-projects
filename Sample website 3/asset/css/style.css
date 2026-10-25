@@ -1,0 +1,327 @@
+.top
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.menu
+{
+    list-style: none;
+    display: flex;
+    column-gap: 50px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.top-menu
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 20px;
+    background-color: rgb(28, 27, 27);
+    color: white;
+    border-radius: 80px;
+}
+
+.over-back
+{
+    background-color: black; 
+    color: white;
+}
+
+.over
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/1422823415.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-menu
+{
+    margin-left: 20px;
+}
+
+.intro
+{
+    text-align: center;
+    margin: 5%;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.more
+{
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 45%;
+    margin-bottom: 5%;
+    border-radius: 40px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.sign-in
+{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.sign-button
+{
+    margin-right: 2%;
+    margin-top: 15px;
+}
+
+.head
+{
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+}
+
+.sub-heads
+{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    color: white;
+    width: 20%;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.sub-heads1
+{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+    color: white;
+    width: 20%;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 40%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.teams
+{
+    margin-top: 6%;
+}
+
+.team-heads
+{
+    color: rgb(255, 0, 0);
+}
+
+.drivers
+{
+    list-style: none;
+}
+
+.driver
+{
+    color: rgb(255, 0, 0);
+}
+
+.catp
+{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 5%;
+}
+
+.content
+{
+    text-align: justify;
+}
+
+.image-adj
+{
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.prod-out
+{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.name-price
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.buy-part
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.buy
+{
+    width: 120px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 10%;
+}
+
+.upi-but
+{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 10%;
+}
+
+.form-head
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.form-out
+{
+    padding: 10px;
+    background-color: rgb(28, 27, 27);
+}
+
+.form-subout
+{
+    padding: 50px;
+    border-radius: 10px;
+    background-color: rgb(37, 36, 36);
+    margin-bottom: 3%;
+    margin: 5%;
+}
+
+.form-in
+{
+    padding: 20px;
+    background-color: rgb(49, 48, 48);
+    color: white;
+    border-radius: 10px;
+}
+
+.submit
+{
+    width: 100px;
+    padding: 10px;
+    margin-left: 40%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.info
+{
+    margin-left: 20%;
+    font-weight: 600;
+}
+
+.newsletter
+{
+    font-weight: 600;
+}
+
+.newsletter input
+{
+    background-color: rgb(28, 27, 27);
+    border: none;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.newsletter-head
+{
+    font-weight: 600;
+}
+
+.logo-text
+{
+    text-align: center;
+    font-weight: 600;
+}
+
+.foot-flex
+{
+    display: flex;
+    column-gap: 40px;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+.foot-list
+{
+    list-style: none;
+}
+
+.foot-out
+{
+    padding: 20px;
+    background-color: rgb(49, 48, 48);
+}
+
+.copy
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: rgb(28, 27, 27);
+    color: white;
+}
+
+.copy-name
+{
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+}
+
+.subscribe
+{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    border: 0;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 100px;
+}
