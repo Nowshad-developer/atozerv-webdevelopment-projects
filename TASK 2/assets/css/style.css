@@ -1,0 +1,986 @@
+.logo
+{
+    font-family: "Nunito", sans-serif;
+    color: rgb(252, 175, 33);
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.king
+{
+    color: green;
+}
+
+.top-menu
+{
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.top-menu li:hover
+{
+    color: rgb(252, 175, 33);
+    cursor: pointer;
+}
+
+.top-nav
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25%;
+    padding: 20px;
+}
+
+.main-head
+{
+    font-family: "Nunito", sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+
+.intro-out
+{
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+.home-over
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/images.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.best
+{
+    color: rgb(252, 175, 33);
+}
+
+.intro-txt
+{
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    padding-left: 22%;
+    padding-right: 22%;
+    font-family: "Open Sans", sans-serif;
+}
+
+.view-menu
+{
+    background-color: rgb(255, 178, 25);
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.view-menu:hover
+{
+    background-color: rgb(230, 172, 65);
+}
+
+.book-table
+{
+    background-color: rgb(114, 174, 3);
+    font-weight: 600;
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    padding: 15px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.book-table:hover
+{
+    background-color: rgb(99, 150, 5);
+}
+
+.btns-out
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+    margin-top: 3%;
+}
+
+.smallhead
+{
+    color: rgb(114, 174, 3);
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+}
+
+.sub-head
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.homebel-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.small-part
+{
+    width: 50%;
+}
+
+.small-part2
+{
+    width: 33%;
+    background-color: rgb(252, 175, 33);
+    padding: 30px;
+}
+
+.smallcnt-out
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    background-color: rgb(244, 244, 244);
+}
+
+.smal-inp
+{
+    width: 100%;
+    background-color: rgb(252, 175, 33);
+    border: solid white 1px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 3%;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+
+.book-but
+{
+    width: 100%;
+    background-color: white;
+    border: none;
+    color: rgb(252, 175, 33);
+    padding: 10px;
+    border-radius: 5px;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.book-but:hover
+{
+    background-color: rgb(242, 240, 240);
+}
+
+.saml-frm
+{
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.play-but
+{
+    background-color: rgb(252, 175, 33);
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    width: 110px;
+    height: 110px;
+    padding: 22px;
+    border-radius: 100px;
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+
+.play-but:hover
+{
+    background-color: rgb(230, 172, 65);
+    cursor: pointer;
+}
+
+.img-out
+{
+    position: relative;
+}
+
+.img-adj
+{
+    border-radius: 20px;
+}
+
+.abt-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.abt-book
+{
+    background-color: rgb(252, 175, 33);
+    border: none;
+    color: white;
+    width: 170px;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.abt-book:hover
+{
+    background-color: rgb(239, 168, 36);
+}
+
+.abtpart-2
+{
+    padding-top: 30%;
+    padding-left: 2%;
+}
+
+.cake-bak-over
+{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.choose-book
+{
+    background-color: rgb(252, 175, 33);
+    border: none;
+    color: white;
+    padding: 15px;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.choose-book:hover
+{
+    background-color: rgb(239, 168, 36);
+}
+
+.chose-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.feat-head
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.feat-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.feat-over
+{
+    margin-top: 5%;
+}
+
+.it-heads
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+
+
+.it-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.it-menu
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+    color: rgb(252, 175, 33);
+}
+
+.it-menu:hover
+{
+    color: rgb(230, 172, 65);
+    cursor: pointer;
+}
+
+.it-out
+{
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px;
+    height: 100%;
+}
+
+.items-over
+{
+    background-color: rgb(244, 244, 244);
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.burg-btn
+{
+    background-color: rgb(252, 175, 33);
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.burg-btn:hover
+{
+    background-color: rgb(114, 174, 3);
+}
+
+.snack-btn
+{
+    background-color: rgb(252, 175, 33);
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.snack-btn:hover
+{
+    background-color: rgb(114, 174, 3);
+}
+
+.bev-btn
+{
+    background-color: rgb(252, 175, 33);
+    color: white;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.bev-btn:hover
+{
+    background-color: rgb(114, 174, 3);
+}
+
+.menu-head
+{
+    text-align: center;
+}
+
+.menu-btns
+{
+    display: flex;
+    column-gap: 15px;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.round-img
+{
+    border-radius: 100px;
+}
+
+.food-nam
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    width: 66%;
+}
+
+.food-nam2
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    width: 52%;
+}
+
+.food-nam3
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    width: 75%;
+}
+
+.food-nam4
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    width: 98%;
+}
+
+.dot-line
+{
+    opacity: 1;
+    border: rgb(201, 199, 199) 1px; 
+    border-style: dashed;
+}
+
+.doline-out
+{
+    width: 100%;
+}
+
+.rate
+{
+    color: rgb(252, 175, 33);
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.rate-part
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dish-out
+{
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    margin-bottom: 3%;
+}
+
+.dish-img-out
+{
+    width: 13%;
+}
+
+.dish-part2
+{
+    width: 100%;
+}
+
+.dish-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.foodmenu-over
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.chef-head
+{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.chef-nam
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.role
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.chef-det
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.chef-img
+{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.chef-out
+{
+    border-radius: 15px;
+}
+
+.chef-over
+{
+    padding-bottom: 5%;
+}
+
+.review-over
+{
+    background-color: rgb(244, 244, 244);
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.review-out
+{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.review
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.clint-nam
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.clint-role
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+}
+
+.green-dot
+{
+    background-color: rgb(252, 175, 33);
+    height: 12px;
+    width: 12px;
+    border-radius: 100px;
+}
+
+.green-dot:hover
+{
+    background-color: rgb(114, 174, 3);
+    cursor: pointer;
+}
+
+.dot-over
+{
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    margin-top: 3%;
+}
+
+.contact-head
+{
+    text-align: center;
+}
+
+.cont-icn
+{
+    color: white;
+    background-color: rgb(252, 175, 33);
+    text-align: center;
+    font-size: 20px;
+    padding: 12px;
+    width: 55px;
+    height: 55px;
+    border-radius: 100px;
+}
+
+.cont-icn:hover
+{
+    background-color: rgb(229, 160, 31);
+    cursor: pointer;
+}
+
+.info-head
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    color: rgb(114, 174, 3);
+}
+
+.cont-info
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.cont-info:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.info-out
+{
+    display: flex;
+    column-gap: 15px;
+}
+
+.soc-icn
+{
+    color: rgb(252, 175, 33);
+    font-size: 20px;
+}
+
+.soc-icn:hover
+{
+    cursor: pointer;
+}
+
+.socicn-out
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.cont-out
+{
+    background-color: rgb(244, 244, 244);
+    padding: 30px;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-top: 3%;
+}
+
+.contact-over
+{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.cont-inp
+{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid rgb(205, 202, 202) 1px;
+    font-size: 18px;
+    margin-bottom: 3%;
+}
+
+.comt
+{
+    padding: 10px;
+    border-radius: 5px;
+    border: solid rgb(205, 202, 202) 1px;
+    font-size: 18px;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 3%;
+}
+
+.send-but
+{
+    background-color: rgb(252, 175, 33);
+    padding: 18px;
+    border: none;
+    border-radius: 8px;
+    width: 180px;
+    color: white;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+}
+
+.send-but:hover
+{
+    background-color: rgb(230, 172, 65);
+}
+
+.blog-head
+{
+    text-align: center;
+}
+
+.lat-head
+{
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.lat-icn
+{
+    color: rgb(252, 175, 33);
+}
+
+.lat-sub
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+}
+
+.latsub-out
+{
+    display: flex;
+    column-gap: 5px;
+}
+
+.latsub-out2
+{
+    display: flex;
+    column-gap: 10px;
+}
+
+.lat-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+    margin-top: 3%;
+}
+
+.read-more
+{
+    background-color: rgb(252, 175, 33);
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    width: 130px;
+    color: white;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+}
+
+.read-more:hover
+{
+    background-color: rgb(230, 172, 65);
+}
+
+.latcnt-out
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    width: 85%;
+    position: absolute;
+    bottom: -60%;
+    left: 7.5%;
+}
+
+.lat-out
+{
+    position: relative;
+}
+
+.blog-over
+{
+    padding-bottom: 25%;
+}
+
+.foot-head
+{
+    color: rgb(252, 175, 33);
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.foot-icn
+{
+    color: rgb(252, 175, 33);
+}
+
+.footinfo
+{
+    font-family: "Open Sans", sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 18px;
+}
+
+.footinfo:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footin-flex
+{
+    display: flex;
+    column-gap: 10px;
+    margin-bottom: 5%;
+}
+
+.foot-soc
+{
+    color: white;
+    background-color: rgb(252, 175, 33);
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    width: 42px;
+    height: 42px;
+    border-radius: 100px;
+}
+
+.foot-soc:hover
+{
+    background-color: rgb(230, 172, 65);
+    cursor: pointer;
+}
+
+.footsoc-out
+{
+    display: flex;
+    column-gap: 5px;
+}
+
+.green-line
+{
+    opacity: 1;
+    border: solid green 1px;
+    width: 55px;
+}
+
+.quick-out
+{
+    list-style: none;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.quick-out li
+{
+    margin-bottom: 5%;
+}
+
+.quick-out li:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.right-icn
+{
+    font-size: 10px;
+    color: rgb(252, 175, 33);
+}
+
+.news-txt
+{
+    font-family: "Open Sans", sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 18px;
+}
+
+.email-in
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid rgb(252, 175, 33) 2px;
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif;
+    color: grey;
+    font-size: 18px;
+}
+
+.submit
+{
+    background-color: rgb(252, 175, 33);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    color: white;
+    font-size: 16px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.submit:hover
+{
+    background-color: rgb(230, 172, 65);
+}
+
+.news-out
+{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.foot-over
+{
+    background-color: rgb(244, 244, 244);
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+.copy
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 12%;
+    padding: 20px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 18px;
+}
+
+.nam
+{
+    color: rgb(252, 175, 33);
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+}
+
+.nam:hover
+{
+    text-decoration: underline;
+    cursor: pointer;
+}
